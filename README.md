@@ -1,8 +1,4 @@
-This repository contains the code associated with the results shown in the paper ***"First time delay observation between two mid-infrared channels in solar***
-
-***flare footpoints"***
-
-
+This repository contains the code associated with the results shown in the paper ***"First time delay observation between two mid-infrared channels in solar flare footpoints"***
 
 The code is structured as follows
 
